@@ -25,3 +25,5 @@ This repository will be used to complete our lab assignments.
 6. Then send the local changes to your forked repository using git command git push origin master.
 7. After that raise a Pull request. I'll see your changes and add it.
 
+or 
+Use GitHub desktop to do the same.
